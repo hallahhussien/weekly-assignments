@@ -1,0 +1,4 @@
+edu/matc/util/LocalDateAttributeConverter.class
+edu/matc/persistence/SessionFactoryProvider.class
+edu/matc/entity/User.class
+edu/matc/persistence/UserDao.class
